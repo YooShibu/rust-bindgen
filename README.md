@@ -1,0 +1,1 @@
+This is the git repogitory for the bindgen command. bindgen generates Rust ffi bindings to C (and some C++) libraries.
